@@ -1,4 +1,4 @@
-# 🧠 Design and Simulation of a 180nm CMOS Single-Stage Differential Pair
+# Design and Simulation of a 180nm CMOS Single-Stage Differential Pair
 
 This repository contains the **simulation files** and **report** for the project  
 **“Design and Simulation of a 180nm CMOS Single-Stage Differential Pair”**  
@@ -6,7 +6,7 @@ completed using **eSim (FOSSEE IIT Bombay)**.
 
 ---
 
-## 📘 Project Overview
+##  Project Overview
 
 This project presents the design, simulation, and DC analysis of a **single-stage CMOS differential amplifier**  
 featuring a complementary rail-to-rail input stage and a PMOS active load.  
@@ -19,7 +19,7 @@ The design achieves:
 
 ---
 
-## 🧩 Repository Contents
+##  Repository Contents
 
 | File | Description |
 |------|--------------|
@@ -28,7 +28,7 @@ The design achieves:
 
 ---
 
-## 🧠 Key Simulation Details
+## Key Simulation Details
 
 - **Technology:** 180nm CMOS  
 - **Simulator:** eSim (FOSSEE IIT Bombay)  
