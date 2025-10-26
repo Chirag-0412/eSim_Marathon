@@ -1,7 +1,7 @@
 # Design and Simulation of a 180nm CMOS Single-Stage Differential Pair
 
 This repository contains the **simulation files** and **report** for the project  
-**“Design and Simulation of a 180nm CMOS Single-Stage Differential Pair”**  
+**Design and Simulation of a 180nm CMOS Single-Stage Differential Pair**  
 completed using **eSim (FOSSEE IIT Bombay)**.
 
 ---
