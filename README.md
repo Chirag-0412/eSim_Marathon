@@ -24,7 +24,8 @@ The design achieves:
 | File | Description |
 |------|--------------|
 | [eSimReport.pdf](eSimReport.pdf) | Full report describing circuit design, simulation, and results |
-| [simulation.zip](simulation.zip) | Contains the LTspice/eSim schematic, netlist, and simulation files |
+| [simulation.zip](simulation.zip) | Contains the eSim schematic, netlist, and simulation files |
+| [schematic.png](schematic.png) | Contains the eSim schematic, netlist, and simulation files |
 
 ---
 
